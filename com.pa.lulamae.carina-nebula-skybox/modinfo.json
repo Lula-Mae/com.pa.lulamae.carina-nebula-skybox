@@ -1,0 +1,28 @@
+{
+  "context": "client",
+  "identifier": "com.pa.lulamae.carina-nebula-skybox",
+  "display_name": "Carina Nebula Skybox",
+  "description": "System placed inside Carina Nebula next to the Milky Way galaxy.",
+  "author": "Lula Mae",
+  "version": "2.0.0",
+  "build": "114779",
+  "date": "2020-07-25",
+  "signature": "not yet implemented",
+  "forum": "https://forums.planetaryannihilation.com/threads/rel-carina-nebula-skybox.72696/",
+  "priority": 100,
+  "icon": "https://raw.githubusercontent.com/Lula-Mae/mod-image-support/master/carina-icon.jpg",
+  "category":
+  [
+    "skybox",
+    "ui",
+    "classic",
+    "titans"
+  ],
+  "scenes":
+  {
+      "settings":
+      [
+          "coui://ui/mods/com.pa.lulamae.carina-nebula-skybox/settings.js"
+      ]
+  }
+}
